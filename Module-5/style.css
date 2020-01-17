@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+}
+.red{
+    color:red;
+}
+.blue{
+    color:blue;
+}
+.green{
+    color:green;
+}
+.strong{
+    font-size: 70px;
+}
+.tiny{
+    font-size: 8px;
+}
+.centered{
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+}
+.font{
+    font-style: oblique;
+}
+.try{
+    font-size: 30px; 
+
+}
+.try{
+    color:orange;
+}
+.try{
+    font-weight: bold;
+}
+img{
+    border-width: 5cm;
+}
+img{
+    border-style: solid;
+}
+img{
+    border-color: hotpink;
+}
